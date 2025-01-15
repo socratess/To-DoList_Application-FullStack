@@ -25,8 +25,8 @@ private Long id;
 private String title;
 
 @NotNull
-@Column(nullable = false, length = 100)
-@Size(min=5,max=100)
+@Column(nullable = false, length = 1000)
+@Size(min=5,max=1000)
 private String description;
 
 @NotNull

@@ -105,7 +105,5 @@ Ensure you have the following installed on your system:
 
 Include license details here (if applicable).
 
----
 
-Enjoy building with the ToDo Application!
 
